@@ -14,7 +14,7 @@ export default function Home() {
     <main className="lg:p-8 sm:p-6 md:p-4">
       <h2 className="text-5xl font-semibold leading-[3rem] mb-6">All-in-one platform <br /> with scalability.</h2>
       <p className="text-xl mb-[70px] text-[#5C5959]">We provide tools and support to automate and optimize <br />
-        your supply chain from start to finish. Collaborate with <br /> your teammates,.
+        your supply chain from start to finish. Collaborate with <br /> your teammates.
       </p>
 
       <section>
